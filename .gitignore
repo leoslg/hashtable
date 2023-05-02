@@ -2,3 +2,5 @@
 _site
 *.pyc
 *.cfg
+
+__pycache__/
