@@ -1,4 +1,6 @@
 from hash import hashtable
+from my_own_hash import hash_f
+
 
 def test_create_ht():
     assert hashtable(size=100) is not None
